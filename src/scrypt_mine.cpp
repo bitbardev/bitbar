@@ -27,8 +27,6 @@
  * online backup system.
  */
 
-//#include <xmmintrin.h>
-
 #include "scrypt_mine.h"
 #include "pbkdf2.h"
 
